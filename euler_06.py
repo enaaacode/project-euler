@@ -27,6 +27,7 @@ square_of_sum = sum(numbers_lst) * sum(numbers_lst)
 
 difference = square_of_sum - sum_of_squares
 
+print()
 print(f"This are our numbers: {numbers_lst}")
 print(f"The sum of their squares is: {sum_of_squares}")
 print(f"The square of their sum is: {square_of_sum}")
