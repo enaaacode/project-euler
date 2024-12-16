@@ -17,7 +17,7 @@ for i in range(1, len(numbers)):
             prime_numbers_lst.remove(numbers[i])
             list_counter += 1
 
-# print(prime_numbers_lst)
+# this takes way to long T.T
 
 # find the prime factors of n
 
