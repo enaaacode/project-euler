@@ -2,7 +2,7 @@
 
 # create list with all the natural numbers below x
 
-x = 100
+x = 1000
 
 numbers_lst = list(range(1, x))
 
